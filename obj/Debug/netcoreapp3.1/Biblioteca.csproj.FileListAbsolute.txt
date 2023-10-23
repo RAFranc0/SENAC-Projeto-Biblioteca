@@ -36,9 +36,6 @@ C:\Users\Raul\Documents\SENAC\Módulo B(B)\Atv 1\Biblioteca\obj\Debug\netcoreapp
 C:\Users\Raul\Documents\SENAC\Módulo B(B)\Atv 1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Cadastro.cshtml.g.cs
 C:\Users\Raul\Documents\SENAC\Módulo B(B)\Atv 1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Edicao.cshtml.g.cs
 C:\Users\Raul\Documents\SENAC\Módulo B(B)\Atv 1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Listagem.cshtml.g.cs
-C:\Users\Raul\Documents\SENAC\Módulo B(B)\Atv 1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\Raul\Documents\SENAC\Módulo B(B)\Atv 1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
-C:\Users\Raul\Documents\SENAC\Módulo B(B)\Atv 1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\Raul\Documents\SENAC\Módulo B(B)\Atv 1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Cadastro.cshtml.g.cs
 C:\Users\Raul\Documents\SENAC\Módulo B(B)\Atv 1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Edicao.cshtml.g.cs
 C:\Users\Raul\Documents\SENAC\Módulo B(B)\Atv 1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Listagem.cshtml.g.cs
@@ -55,3 +52,13 @@ C:\Users\Raul\Documents\SENAC\Módulo B(B)\Atv 1\Biblioteca\obj\Debug\netcoreapp
 C:\Users\Raul\Documents\SENAC\Módulo B(B)\Atv 1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
 C:\Users\Raul\Documents\SENAC\Módulo B(B)\Atv 1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
 C:\Users\Raul\Documents\SENAC\Módulo B(B)\Atv 1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
+C:\Users\Raul\Documents\SENAC\Módulo B(B)\Atv 1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Home\Index.cshtml.g.cs
+C:\Users\Raul\Documents\SENAC\Módulo B(B)\Atv 1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Home\Login.cshtml.g.cs
+C:\Users\Raul\Documents\SENAC\Módulo B(B)\Atv 1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Home\Privacy.cshtml.g.cs
+C:\Users\Raul\Documents\SENAC\Módulo B(B)\Atv 1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Administrador.cshtml.g.cs
+C:\Users\Raul\Documents\SENAC\Módulo B(B)\Atv 1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\EditarUsuario.cshtml.g.cs
+C:\Users\Raul\Documents\SENAC\Módulo B(B)\Atv 1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\ListaDeUsuarios.cshtml.g.cs
+C:\Users\Raul\Documents\SENAC\Módulo B(B)\Atv 1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\RegistrarUsuarios.cshtml.g.cs
+C:\Users\Raul\Documents\SENAC\Módulo B(B)\Atv 1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Raul\Documents\SENAC\Módulo B(B)\Atv 1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\Raul\Documents\SENAC\Módulo B(B)\Atv 1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
